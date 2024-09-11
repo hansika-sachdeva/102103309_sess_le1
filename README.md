@@ -43,5 +43,11 @@ Faced limitations due to lack of GPU resources, affecting the ability to complet
 ### Training Loss
 ![Screenshot (213)](https://github.com/user-attachments/assets/cb7d1fb0-d3e7-4b83-a8c7-7d32a4fbff53)
 
+# Colab Notebook
+In the repo itself also link
+
+# Self Created Dataset:
+[https://drive.google.com/drive/folders/1IVhDIb2ny4mcmF6QOg1L537NeGAE5GxW?usp=sharing](https://drive.google.com/drive/folders/13om9TnnE4R2jdckf_Cv26T0Fn25n7EQE?usp=sharing)
+
 
 
