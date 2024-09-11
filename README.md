@@ -31,20 +31,17 @@ Challenges Encountered:
 Faced limitations due to lack of GPU resources, affecting the ability to complete and optimize the model training process. Unable to fully fine-tune the model and apply necessary corrections due to computational and time constraints.
 
 # Snapshots
-![Screenshot (209)](https://github.com/user-attachments/assets/922e450d-8ba5-4841-9ca0-34c74ea4d91a)
+![Screenshot (209)](https://github.com/user-attachments/assets/532508c5-7fee-41f1-8689-47eacddd6563)
 
 ### Model Architecture
-![Screenshot (209)](https://github.com/user-attachments/assets/7a80b534-5b3f-4178-a203-53527ee10993)
+![Screenshot (210)](https://github.com/user-attachments/assets/4b8d0588-03d6-4bd4-8639-9babf9898190)
 
 ### Training and Testing Model
-![Screenshot (210)](https://github.com/user-attachments/assets/55d65fbf-b88a-42eb-b0f0-54b4fed7640d)
-![Screenshot (211)](https://github.com/user-attachments/assets/d1375151-fb66-49ef-88d3-292b2dc2ec43)
+![Screenshot (211)](https://github.com/user-attachments/assets/d2bfdbc3-bdfc-49d5-a7f0-1ec90e425149)
+![Screenshot (212)](https://github.com/user-attachments/assets/82de92b3-8461-4a8e-a98b-37ab3e0c7399)
 
 ### Training Loss
-![Screenshot (213)](https://github.com/user-attachments/assets/ce0c2959-b852-4d14-9862-82ff03f228b4)
-
-![Screenshot (212)](https://github.com/user-attachments/assets/66755eeb-6d82-4220-80bd-cc3e9e6eb230)
-
+![Screenshot (213)](https://github.com/user-attachments/assets/cb7d1fb0-d3e7-4b83-a8c7-7d32a4fbff53)
 
 
 
